@@ -94,7 +94,7 @@
 
 ## Общий пример ветвления
 
-![RIT GitFlow](https://st2.depositphotos.com/2001755/5408/i/450/depositphotos_54081723-stock-photo-beautiful-nature-landscape.jpg)
+![RIT GitFlow](https://raw.githubusercontent.com/mitra-kun/img_store/master/process.png)
 
 ## Ветвь master
 
