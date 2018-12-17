@@ -94,7 +94,7 @@
 
 ## Общий пример ветвления
 
-![RIT GitFlow](/img/process_diagram.png)
+![RIT GitFlow](/img/process.jpg)
 
 ## Ветвь master
 
