@@ -199,9 +199,10 @@
     git commit -m "Commit text"
     git push -u origin hotfix-YT-TA-80-incorrect_search_results
 
-При необходимости проводится стабилизация с ветвью master
+При необходимости проводится стабилизация от ветви master
 
     git merge --no-ff master
+
 
 #### 3. Отправка запроса на слияние с ветвью master
 
